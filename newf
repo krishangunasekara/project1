@@ -1,0 +1,8 @@
+new file 
+git fetch origin <branch>
+git checkout <branch>
+git pull origin
+git branch
+git clone -b[branchname] <origin url> ./
+git commit -am"discription"
+git push origin <branch>
